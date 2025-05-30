@@ -1,9 +1,9 @@
 ## Hi there 👋
-Me chamo Gabriel, e abaixo vc encontra um pouco sobre mim!
-  •🌱 Hoje eu estudo Sistemas de Informação ,estou no 1° Periodo atualmente;
-  •⚙️Técnico em Segurança do trabalho - ICT.
-  •💻Procuro emprego como desenvolvedor/programador ou estagiário.
-  •Sou Cristão Evangelico;
+Me chamo Gabriel, e abaixo vc encontra um pouco sobre mim! <br>
+  •🌱 Hoje eu estudo Sistemas de Informação ,estou no 1° Periodo atualmente; <br>
+  •⚙️Técnico em Segurança do trabalho - ICT. <br>
+  •💻Procuro emprego como desenvolvedor/programador ou estagiário. <br>
+  •Sou Cristão Evangelico; <br>
 
 
 - <picture>
