@@ -14,7 +14,6 @@ Me chamo Gabriel, e abaixo vc encontra um pouco sobre mim! <br>
 </div>
 </picture>
 
-![Snake animation](https://github.com/gabrielLourenco-hub/gabrielLourenco-hub/blob/output/github-contribution-grid-snake.svg)
 
 
 
